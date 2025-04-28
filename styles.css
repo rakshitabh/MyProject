@@ -1,1 +1,15 @@
-kndkssm
+.nav{
+	background-color:aqua;
+	color:black;
+	margin-top:0;
+	margin-left:0;
+	padding:10px;
+}
+
+.a{
+	color:blue;
+	font-family:verdana;
+	display:flex;
+	justify-content:center;
+}
+
